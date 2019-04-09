@@ -1,0 +1,60 @@
+img
+{
+    width: 50;
+    height: 50;
+}
+a{
+    background-color: white;
+    color: blue;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("Backgrounds/JinxTongue.jpg");
+  }
+
+  #navigation-container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 70px;
+  }
+  
+  .navigation-bar {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    text-align:left;
+  }
+  .navigation-bar img{
+  float:left;
+  }
+  .navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  }
+  
+  .navigation-bar li {
+    padding: 5px;
+    display: inline;
+  }
+  
+  .navigation-bar li a {
+    color: black;
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 5px 15px;
+    opacity: 0.7;
+  }
+  
+  .navigation-bar li a:hover
+  {
+      cursor: crosshair;
+  }
