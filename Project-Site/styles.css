@@ -58,3 +58,24 @@ body {
   {
       cursor: crosshair;
   }
+
+  
+  #footer-container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100px;
+  }  
+  .footer-bar {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    text-align:left;
+  }
+  .footer-bar img{
+  float:left;
+  }
+  footer {
+    /* position: absolute; */
+    bottom:100;
+    width: 100%;
+   }
