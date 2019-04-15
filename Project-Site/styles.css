@@ -150,3 +150,74 @@ ul {
   margin-top: 20px;
   display: none;
 }
+#myDIV5 {
+  width: 50%;
+  padding: 40px 0;
+  text-align: center;
+  background-image: url("miles_morales.jpg");
+  margin-top: 20px;
+  display: none;
+}
+#milesText{
+  color: green;
+}
+.discussions {
+    cursor:pointer;
+    display: block;
+    padding:0px;
+  }
+.discussion:hover {
+    opacity: 1;
+  }
+
+h1 { 
+    padding-left:20px;
+    padding-right:20px;
+    font-size:32px;
+    font-weight:300;
+  } 
+h2 {
+    padding-top:10px;
+    padding-right: 40px;
+    padding-bottom:10px;
+    font-size: 18px;
+    font-weight:500;
+    color: #032156;
+  }
+
+#response {
+    font-size:16px;
+    line-height:22px;
+    text-align:justify;
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+#response-2 {
+    font-size:16px;
+    line-height:22px;
+    text-align:justify;
+    padding-left:20px;
+    padding-right:20px;
+  }
+#response-3 {
+    font-size:16px;
+    line-height:22px;
+    text-align:justify;
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+.forum {
+    display:block;
+    position:relative;
+    padding:2%;
+    width:100%;
+    max-width:85%;
+    background-color: #d5dce8;
+    opacity: 0.78;
+    margin:0 auto;
+    margin-top:12%;
+    box-shadow:0px 0px 5px rgba(0,0,0,0.1);
+    border-radius: 25px
+   } 
